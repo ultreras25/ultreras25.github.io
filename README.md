@@ -1,4 +1,5 @@
-Welcome to my Spring 2026 Coding Portfolio!
+## Welcome to my Spring 2026 Coding Portfolio!
+Below I have included some of my favortie work in assignments, experiments, and my semester final project!
 
 ## City of Chicago Data Visualization
 City of Chicago Library Sponsored Events!
