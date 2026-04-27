@@ -1,4 +1,4 @@
-# Programming Portfolio
+Welcome to my Spring 2026 Coding Portfolio!
 
 ## City of Chicago Data Visualization
 City of Chicago Library Sponsored Events!
