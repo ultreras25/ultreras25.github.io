@@ -9,7 +9,7 @@ Using open data service from the City of Chicago, I focused on visualizing Libra
 ## JavaScript Guessing Game
 Created a guessing fame using JavaScript, HTML, and CSS. I was able to experiment with customization and using my own person drawing (Kittens) as the base of the game. The user is prompted to enter a guessed number between 2-6 and submit the guess. After, the text would display the results of either right or wrong guess.
 
-<img width="900" height="700" alt="Screenshot 2026-02-24 at 4 38 31 PM" src="https://github.com/user-attachments/assets/0bb969f8-8822-4379-9515-133f3514ab8a" />
+<img width="1000" height="600" alt="Screenshot 2026-02-24 at 4 38 31 PM" src="https://github.com/user-attachments/assets/0bb969f8-8822-4379-9515-133f3514ab8a" />
 
 
 ## Weather Data Visualization
