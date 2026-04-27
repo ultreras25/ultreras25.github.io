@@ -4,5 +4,5 @@ Below I have included some of my favortie work in assignments, experiments, and 
 ## City of Chicago Data Visualization
 City of Chicago Library Sponsored Events!
 
-<img width="968" height="891" alt="datavisualization" src="https://github.com/user-attachments/assets/65cf4f44-9078-4730-b86e-46fddae1e2eb" />
+<img width="796" height="698" alt="datavisualization" src="https://github.com/user-attachments/assets/de52783e-d58f-483c-af03-ca02712448b2" />
 
