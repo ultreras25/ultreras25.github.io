@@ -4,7 +4,7 @@ Below I have included some of my favortie work in assignments, experiments, and 
 ## City of Chicago Data Visualization
 Using open data service from the City of Chicago, I focused on visualizing Library Sponsored Events! Utilizing the built-in visualization tools, I was able to experiment with the type of chart (exp. pie chart) and the filters to get a better sense of type of events hosted in Chicago.
 
-<img width="900" height="700" alt="datavisualization" src="https://github.com/user-attachments/assets/de52783e-d58f-483c-af03-ca02712448b2" />
+<img width="1000" height="700" alt="datavisualization" src="https://github.com/user-attachments/assets/de52783e-d58f-483c-af03-ca02712448b2" />
 
 ## JavaScript Guessing Game
 Created a guessing fame using JavaScript, HTML, and CSS. I was able to experiment with customization and using my own person drawing (Kittens) as the base of the game. The user is prompted to enter a guessed number between 2-6 and submit the guess. After, the text would display the results of either right or wrong guess.
