@@ -23,7 +23,7 @@ Using Processing, I experimented to create an image different from the demo vers
 <img width="900" height="600" alt="Screenshot 2026-02-16 171453" src="https://github.com/user-attachments/assets/d766ca9d-6e27-46c3-b73e-dfb4f446affb" />
 
 ## Final Interactive Project
-Using JavaScript, HTML, and CSS, this site was created to bring awareness to the global issue of Climate Change. The site allows for users to interact and go through different tabs to continue learning on the issue and discover new ways to take action against Climate Change!
+Using JavaScript, HTML, and CSS, this site was created to bring awareness to the global issue of Climate Change. The site allows for users to interact and go through different tabs to continue learning about the issue and discover new ways to take action against Climate Change!
 
 <img width="900" height="600" alt="Screenshot_Learn" src="https://github.com/user-attachments/assets/19531cc0-67a2-4c5e-936a-64ef85f88691" />
 <img width="900" height="600" alt="Screenshot_Future" src="https://github.com/user-attachments/assets/d9957552-2b17-4569-82eb-2a873bc590aa" />
