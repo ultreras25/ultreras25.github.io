@@ -25,4 +25,8 @@ Using Processing, I experimented to create an image different from the demo vers
 ## Final Interactive Project
 Using JavaScript, HTML, and CSS, this site was created to bring awareness to the global issue of Climate Change. The site allows for users to interact and go through different tabs to continue learning on the issue and discover new ways to take action against Climate Change!
 
+<img width="900" height="600" alt="Screenshot_Learn" src="https://github.com/user-attachments/assets/19531cc0-67a2-4c5e-936a-64ef85f88691" />
+<img width="900" height="600" alt="Screenshot_Future" src="https://github.com/user-attachments/assets/d9957552-2b17-4569-82eb-2a873bc590aa" />
+<img width="900" height="600" alt="Screenshot_Examples" src="https://github.com/user-attachments/assets/8f1d2d43-a81a-4a0b-9a25-f48fd578bc73" />
+<img width="900" height="600" alt="Screenshot_Action" src="https://github.com/user-attachments/assets/9c09ff72-de21-4ce5-84a0-8f62af4a38c8" />
 
